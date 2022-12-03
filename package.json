@@ -1,14 +1,11 @@
 {
-  "name": "lhci",
+  "name": "lighthouse-server",
   "version": "1.0.0",
   "main": "server.js",
   "dependencies": {
-    "@lhci/cli": "^0.7.2",
-    "@lhci/server": "^0.7.2",
-    "pg": "^7.12.1",
-    "pg-hstore": "^2.3.3"
-  },
-  "engines": {
-    "node": "12.x"
+    "@lhci/cli": "0.10.0",
+    "@lhci/server": "0.10.0",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4"
   }
 }
