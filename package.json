@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "dependencies": {
-    "@lhci/cli": "0.13.0",
+    "@lhci/cli": "0.14.0",
     "@lhci/server": "0.13.0",
     "pg": "^8.8.0",
     "pg-hstore": "^2.3.4"
